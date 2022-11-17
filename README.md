@@ -37,5 +37,18 @@ Acutully For this model I've used same data wich i have used in YOLOV4.It's Frui
 * This dataset path should be in your dataset.yaml file.
 * Now all set further just my .ipynb file.
 
+## Deployment
+
+* For Deployement I used streamlit and I've followed such steps:-
+* Create a Folder
+* make a file named requirements.txt and put all the required library inside it.
+* Create a Virtual Environment inside this folder Follow these Steps -
+* Open your command prompt in VS Code and write this command (python -m venv VE_name) and hit enter.
+* After that you need to activate this virtual environment for that write this command (VE_name\Scripts\activate) and hit enter.
+* You've Activated your virtual environment and you need to install all your required library for creating this app.
+* Then Create a python file and write code for streamlit app
+* Fro executing this code run this command in command prompt (streamlit run python_file_name.py)
+
 ## Final Output :-
+![yoloV5](https://user-images.githubusercontent.com/92671804/202438996-92f7ed1d-f2f3-4b47-b358-c81d587c6a4b.png)
 
