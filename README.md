@@ -35,7 +35,7 @@ Acutully For this model I've used same data wich i have used in YOLOV4.It's Frui
 
 * Dataset folder should setup like this means main folder inside two folder one is images and another labels, inside the images folder You'll be having two folder one is train and second val, train folder contains all the training images and val folder contains all the test images. Now come to the label folder same as images folder it has also two folder train and val but inside this train and val folder you will be having all txt files corresponding to images folder.
 * This dataset path should be in your dataset.yaml file.
-* Now all set further just my .ipynb file.
+* Now all set for further just follow my .ipynb file which is in this repository.
 
 ## Deployment
 
